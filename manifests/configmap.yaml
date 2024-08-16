@@ -21,7 +21,7 @@ data:
                 <h2>Login</h2>
                 <div class="input-group">
                     <input type="text" required>
-                    <label>Username</label>
+                    <label>Username_1</label>
                 </div>
                 <div class="input-group">
                     <input type="password" required>
