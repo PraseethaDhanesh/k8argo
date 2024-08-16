@@ -18,7 +18,7 @@ data:
     <body>
         <div class="login-container">
             <form class="login-form">
-                <h2>Login</h2>
+                <h2>Login_2</h2>
                 <div class="input-group">
                     <input type="text" required>
                     <label>Username_1</label>
